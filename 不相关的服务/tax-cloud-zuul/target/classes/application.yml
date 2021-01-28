@@ -1,0 +1,18 @@
+eureka:
+  client:
+    serviceUrl:
+      #defaultZone: http://localhost:20001/eureka/,http://localhost:20002/eureka/
+      defaultZone: http://localhost:20001/eureka/
+server:
+  port: 8769
+spring:
+  application:
+    name: service-zuul
+zuul:
+  routes:
+    api-a:
+      path: /api-invoice/**
+      service-id: pc-web
+    #api-b:
+      #path: /api-order/**
+      #service-id: service-order

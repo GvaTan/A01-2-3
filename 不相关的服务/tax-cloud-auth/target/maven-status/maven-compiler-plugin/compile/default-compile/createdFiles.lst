@@ -1,0 +1,6 @@
+com\fangjia\auth\query\AuthQuery.class
+com\fangjia\auth\controller\AuthController.class
+com\fangjia\auth\po\User.class
+com\fangjia\auth\service\AuthServiceImpl.class
+com\fangjia\auth\AuthApplication.class
+com\fangjia\auth\service\AuthService.class

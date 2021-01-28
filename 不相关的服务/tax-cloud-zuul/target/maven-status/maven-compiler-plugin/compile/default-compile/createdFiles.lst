@@ -1,0 +1,6 @@
+com\zhys\zuul\fegin\AuthServiceFegin.class
+com\fangjia\auth\query\AuthQuery.class
+com\zhys\zuul\filter\AuthHeaderFilter.class
+com\zhys\zuul\task\TokenScheduledTask.class
+com\zhys\zuul\filter\AuthFilter.class
+com\zhys\zuul\AppZuull.class

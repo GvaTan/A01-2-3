@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: zuul
+    
+server:
+  port: 80
+  
+eureka:
+  client:
+    service-url: 
+      defaultZone: http://localhost:20002/eureka/
+
+zuul:
+  routes:
+    pc-web: /pc-web/**  
+    e-invoice: /e-invoice/**
+    E-A02: /E-A02/**
+  retryable: true
+  sensitive-headers: Access-Control-Allow-Origin
+  ignored-headers: Access-Control-Allow-Origin,H-APP-Id,Token,APPToken
+  
+  
+  
+ribbon:
+  ConnectTimeout: 1000
+  ReadTimeout: 1000
+  MaxAutoRetriesNextServer: 1
+  MaxAutoRetries: 1

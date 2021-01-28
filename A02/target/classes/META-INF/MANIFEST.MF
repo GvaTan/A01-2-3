@@ -1,0 +1,121 @@
+Manifest-Version: 1.0
+Implementation-Title: fin-inv-sap-huashu
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.zhys
+Class-Path: ../lib/spring-cloud-starter-netflix-eureka-client-2.2.0.RE
+ LEASE.jar ../lib/spring-cloud-starter-2.2.0.RELEASE.jar ../lib/spring
+ -cloud-context-2.2.0.RELEASE.jar ../lib/spring-security-crypto-5.2.1.
+ RELEASE.jar ../lib/spring-cloud-commons-2.2.0.RELEASE.jar ../lib/spri
+ ng-security-rsa-1.0.7.RELEASE.jar ../lib/bcpkix-jdk15on-1.60.jar ../l
+ ib/spring-cloud-netflix-hystrix-2.2.0.RELEASE.jar ../lib/spring-cloud
+ -netflix-eureka-client-2.2.0.RELEASE.jar ../lib/eureka-client-1.9.13.
+ jar ../lib/jettison-1.3.7.jar ../lib/stax-api-1.0.1.jar ../lib/netfli
+ x-eventbus-0.3.0.jar ../lib/netflix-infix-0.3.0.jar ../lib/commons-jx
+ path-1.3.jar ../lib/antlr-runtime-3.4.jar ../lib/stringtemplate-3.2.1
+ .jar ../lib/antlr-2.7.7.jar ../lib/commons-math-2.2.jar ../lib/archai
+ us-core-0.7.6.jar ../lib/jsr311-api-1.1.1.jar ../lib/servo-core-0.12.
+ 21.jar ../lib/jersey-core-1.19.1.jar ../lib/jersey-client-1.19.1.jar 
+ ../lib/jersey-apache-client4-1.19.1.jar ../lib/guice-4.1.0.jar ../lib
+ /javax.inject-1.jar ../lib/aopalliance-1.0.jar ../lib/jackson-annotat
+ ions-2.10.0.jar ../lib/eureka-core-1.9.13.jar ../lib/woodstox-core-5.
+ 2.1.jar ../lib/stax2-api-4.2.jar ../lib/spring-cloud-starter-netflix-
+ archaius-2.2.0.RELEASE.jar ../lib/spring-cloud-netflix-ribbon-2.2.0.R
+ ELEASE.jar ../lib/spring-cloud-netflix-archaius-2.2.0.RELEASE.jar ../
+ lib/commons-configuration-1.8.jar ../lib/spring-cloud-starter-netflix
+ -ribbon-2.2.0.RELEASE.jar ../lib/ribbon-2.3.0.jar ../lib/ribbon-trans
+ port-2.3.0.jar ../lib/rxnetty-contexts-0.4.9.jar ../lib/rxnetty-servo
+ -0.4.9.jar ../lib/hystrix-core-1.5.18.jar ../lib/HdrHistogram-2.1.9.j
+ ar ../lib/ribbon-core-2.3.0.jar ../lib/ribbon-httpclient-2.3.0.jar ..
+ /lib/netflix-commons-util-0.3.0.jar ../lib/ribbon-loadbalancer-2.3.0.
+ jar ../lib/netflix-statistics-0.1.1.jar ../lib/spring-cloud-starter-l
+ oadbalancer-2.2.0.RELEASE.jar ../lib/spring-cloud-loadbalancer-2.2.0.
+ RELEASE.jar ../lib/reactor-core-3.3.0.RELEASE.jar ../lib/reactive-str
+ eams-1.0.3.jar ../lib/reactor-extra-3.3.0.RELEASE.jar ../lib/spring-b
+ oot-starter-cache-2.2.1.RELEASE.jar ../lib/spring-context-support-5.2
+ .1.RELEASE.jar ../lib/evictor-1.0.0.jar ../lib/ribbon-eureka-2.3.0.ja
+ r ../lib/xstream-1.4.11.1.jar ../lib/xmlpull-1.1.3.1.jar ../lib/xpp3_
+ min-1.1.4c.jar ../lib/commons-lang3-3.0.jar ../lib/lombok-1.18.2.jar 
+ ../lib/spring-boot-starter-aop-2.2.1.RELEASE.jar ../lib/spring-boot-s
+ tarter-2.2.1.RELEASE.jar ../lib/spring-boot-starter-logging-2.2.1.REL
+ EASE.jar ../lib/logback-classic-1.2.3.jar ../lib/logback-core-1.2.3.j
+ ar ../lib/log4j-to-slf4j-2.12.1.jar ../lib/log4j-api-2.12.1.jar ../li
+ b/jul-to-slf4j-1.7.29.jar ../lib/jakarta.annotation-api-1.3.5.jar ../
+ lib/spring-core-5.2.1.RELEASE.jar ../lib/spring-jcl-5.2.1.RELEASE.jar
+  ../lib/snakeyaml-1.25.jar ../lib/spring-aop-5.2.1.RELEASE.jar ../lib
+ /spring-beans-5.2.1.RELEASE.jar ../lib/aspectjweaver-1.9.4.jar ../lib
+ /spring-boot-starter-web-2.2.1.RELEASE.jar ../lib/spring-boot-starter
+ -json-2.2.1.RELEASE.jar ../lib/jackson-datatype-jdk8-2.10.0.jar ../li
+ b/jackson-datatype-jsr310-2.10.0.jar ../lib/jackson-module-parameter-
+ names-2.10.0.jar ../lib/spring-boot-starter-tomcat-2.2.1.RELEASE.jar 
+ ../lib/tomcat-embed-core-9.0.27.jar ../lib/tomcat-embed-el-9.0.27.jar
+  ../lib/tomcat-embed-websocket-9.0.27.jar ../lib/spring-boot-starter-
+ validation-2.2.1.RELEASE.jar ../lib/jakarta.validation-api-2.0.1.jar 
+ ../lib/hibernate-validator-6.0.18.Final.jar ../lib/jboss-logging-3.4.
+ 1.Final.jar ../lib/spring-web-5.2.1.RELEASE.jar ../lib/spring-webmvc-
+ 5.2.1.RELEASE.jar ../lib/spring-context-5.2.1.RELEASE.jar ../lib/spri
+ ng-expression-5.2.1.RELEASE.jar ../lib/mysql-connector-java-8.0.18.ja
+ r ../lib/mybatis-3.4.0.jar ../lib/mapper-3.3.7.jar ../lib/persistence
+ -api-1.0.jar ../lib/druid-1.1.8.jar ../lib/commons-httpclient-3.1.jar
+  ../lib/commons-logging-1.0.4.jar ../lib/commons-codec-1.13.jar ../li
+ b/httpclient-4.5.5.jar ../lib/httpcore-4.4.12.jar ../lib/fastjson-1.2
+ .30.jar ../lib/commons-net-3.3.jar ../lib/pagehelper-spring-boot-star
+ ter-1.2.3.jar ../lib/pagehelper-spring-boot-autoconfigure-1.2.3.jar .
+ ./lib/pagehelper-5.1.2.jar ../lib/jsqlparser-1.0.jar ../lib/springfox
+ -swagger2-2.8.0.jar ../lib/swagger-annotations-1.5.14.jar ../lib/swag
+ ger-models-1.5.14.jar ../lib/springfox-spi-2.8.0.jar ../lib/springfox
+ -core-2.8.0.jar ../lib/byte-buddy-1.10.2.jar ../lib/springfox-schema-
+ 2.8.0.jar ../lib/springfox-swagger-common-2.8.0.jar ../lib/springfox-
+ spring-web-2.8.0.jar ../lib/reflections-0.9.11.jar ../lib/javassist-3
+ .21.0-GA.jar ../lib/guava-20.0.jar ../lib/classmate-1.5.1.jar ../lib/
+ slf4j-api-1.7.29.jar ../lib/spring-plugin-core-1.2.0.RELEASE.jar ../l
+ ib/spring-plugin-metadata-1.2.0.RELEASE.jar ../lib/mapstruct-1.2.0.Fi
+ nal.jar ../lib/springfox-swagger-ui-2.8.0.jar ../lib/fin-tax-common-0
+ .0.1-SNAPSHOT.jar ../lib/spring-boot-starter-amqp-2.2.1.RELEASE.jar .
+ ./lib/spring-messaging-5.2.1.RELEASE.jar ../lib/spring-rabbit-2.2.1.R
+ ELEASE.jar ../lib/amqp-client-5.7.3.jar ../lib/spring-amqp-2.2.1.RELE
+ ASE.jar ../lib/spring-retry-1.2.4.RELEASE.jar ../lib/spring-tx-5.2.1.
+ RELEASE.jar ../lib/jjwt-0.7.0.jar ../lib/transmittable-thread-local-2
+ .2.0.jar ../lib/poi-3.14.jar ../lib/poi-ooxml-3.14.jar ../lib/poi-oox
+ ml-schemas-3.14.jar ../lib/xmlbeans-2.6.0.jar ../lib/curvesapi-1.03.j
+ ar ../lib/cos_api-5.4.4.jar ../lib/joda-time-2.10.5.jar ../lib/bcprov
+ -jdk15on-1.59.jar ../lib/dozer-5.4.0.jar ../lib/jcl-over-slf4j-1.7.29
+ .jar ../lib/spring-cloud-starter-openfeign-2.2.0.RELEASE.jar ../lib/s
+ pring-cloud-openfeign-core-2.2.0.RELEASE.jar ../lib/feign-form-spring
+ -3.8.0.jar ../lib/feign-form-3.8.0.jar ../lib/commons-fileupload-1.4.
+ jar ../lib/feign-core-10.4.0.jar ../lib/feign-slf4j-10.4.0.jar ../lib
+ /feign-hystrix-10.4.0.jar ../lib/spring-boot-starter-data-redis-2.2.1
+ .RELEASE.jar ../lib/spring-data-redis-2.2.1.RELEASE.jar ../lib/spring
+ -data-keyvalue-2.2.1.RELEASE.jar ../lib/spring-data-commons-2.2.1.REL
+ EASE.jar ../lib/spring-oxm-5.2.1.RELEASE.jar ../lib/lettuce-core-5.2.
+ 1.RELEASE.jar ../lib/spring-boot-starter-activemq-2.2.1.RELEASE.jar .
+ ./lib/spring-jms-5.2.1.RELEASE.jar ../lib/activemq-broker-5.15.10.jar
+  ../lib/activemq-client-5.15.10.jar ../lib/hawtbuf-1.11.jar ../lib/ge
+ ronimo-j2ee-management_1.1_spec-1.0.1.jar ../lib/activemq-openwire-le
+ gacy-5.15.10.jar ../lib/jakarta.jms-api-2.0.3.jar ../lib/json-lib-2.4
+ -jdk15.jar ../lib/commons-beanutils-1.8.0.jar ../lib/commons-collecti
+ ons-3.2.1.jar ../lib/commons-lang-2.5.jar ../lib/ezmorph-1.0.6.jar ..
+ /lib/dom4j-1.6.1.jar ../lib/xml-apis-1.0.b2.jar ../lib/commons-io-2.5
+ .jar ../lib/gson-2.8.5.jar ../lib/spring-boot-devtools-2.2.1.RELEASE.
+ jar ../lib/spring-boot-2.2.1.RELEASE.jar ../lib/spring-boot-autoconfi
+ gure-2.2.1.RELEASE.jar ../lib/mybatis-spring-boot-starter-1.3.0.jar .
+ ./lib/spring-boot-starter-jdbc-2.2.1.RELEASE.jar ../lib/HikariCP-3.4.
+ 1.jar ../lib/spring-jdbc-5.2.1.RELEASE.jar ../lib/mybatis-spring-boot
+ -autoconfigure-1.3.0.jar ../lib/mybatis-spring-1.3.1.jar ../lib/jacks
+ on-jaxrs-json-provider-2.8.0.jar ../lib/jackson-jaxrs-base-2.10.0.jar
+  ../lib/jackson-core-2.10.0.jar ../lib/jackson-databind-2.10.0.jar ..
+ /lib/jackson-module-jaxb-annotations-2.10.0.jar ../lib/jakarta.xml.bi
+ nd-api-2.3.2.jar ../lib/jakarta.activation-api-1.2.1.jar ../lib/netty
+ -all-4.1.25.Final.jar ../lib/rxnetty-0.5.1.jar ../lib/rxjava-1.3.8.ja
+ r ../lib/netty-codec-http-4.1.43.Final.jar ../lib/netty-common-4.1.43
+ .Final.jar ../lib/netty-buffer-4.1.43.Final.jar ../lib/netty-transpor
+ t-4.1.43.Final.jar ../lib/netty-resolver-4.1.43.Final.jar ../lib/nett
+ y-codec-4.1.43.Final.jar ../lib/netty-handler-4.1.43.Final.jar ../lib
+ /netty-transport-native-epoll-4.1.43.Final.jar ../lib/netty-transport
+ -native-unix-common-4.1.43.Final.jar ../config/
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/fin-inv-sap-huashu
+Created-By: Maven Integration for Eclipse
+Main-Class: com.zhys.FinTaxInvoicesApplication
+
