@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-wechat/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-user/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-timer/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-invoice-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-invoice/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-ea/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-common-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-common/pom.xml" />
+        <option value="$PROJECT_DIR$/imaging-service/pom.xml" />
+        <option value="$PROJECT_DIR$/E-invoice/pom.xml" />
+        <option value="$PROJECT_DIR$/A02/pom.xml" />
+        <option value="$PROJECT_DIR$/tax-cloud-gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="false" project-jdk-name="JDK1.8" project-jdk-type="JavaSDK" />
+</project>

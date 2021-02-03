@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tax-cloud-timer" />
+        <module name="tax-cloud-invoice" />
+        <module name="tax-cloud-common-web" />
+        <module name="tax-cloud-wechat" />
+        <module name="gateway-zuul" />
+        <module name="tax-cloud-eureka" />
+        <module name="tax-cloud-web" />
+        <module name="imaging-service" />
+        <module name="tax-cloud-ea" />
+        <module name="tax-cloud-common" />
+        <module name="tax-cloud-user" />
+        <module name="tax-cloud-invoice-api" />
+        <module name="fin-inv-sap-huashu" />
+        <module name="E-invoice" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="E-invoice" target="1.8" />
+      <module name="fin-inv-sap-huashu" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="gateway-zuul" target="1.8" />
+      <module name="imaging-service" target="1.8" />
+      <module name="tax-cloud-common" target="1.8" />
+      <module name="tax-cloud-common-web" target="1.8" />
+      <module name="tax-cloud-ea" target="1.8" />
+      <module name="tax-cloud-eureka" target="1.8" />
+      <module name="tax-cloud-invoice" target="1.8" />
+      <module name="tax-cloud-invoice-api" target="1.8" />
+      <module name="tax-cloud-timer" target="1.8" />
+      <module name="tax-cloud-user" target="1.8" />
+      <module name="tax-cloud-web" target="1.8" />
+      <module name="tax-cloud-wechat" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="E-invoice" options="-parameters" />
+      <module name="fin-inv-sap-huashu" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway-zuul" options="-parameters" />
+      <module name="imaging-service" options="-parameters" />
+    </option>
+  </component>
+</project>

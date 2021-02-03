@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/A02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E-invoice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imaging-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-common-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-ea/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-invoice-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-invoice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-timer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tax-cloud-wechat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>

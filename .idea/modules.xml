@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/A01-2-3.iml" filepath="$PROJECT_DIR$/.idea/A01-2-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-invoice/E-invoice.iml" filepath="$PROJECT_DIR$/E-invoice/E-invoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A02/fin-inv-sap-huashu.iml" filepath="$PROJECT_DIR$/A02/fin-inv-sap-huashu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-gateway/gateway.iml" filepath="$PROJECT_DIR$/tax-cloud-gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/gateway-zuul.iml" filepath="$PROJECT_DIR$/zuul/gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imaging-service/imaging-service.iml" filepath="$PROJECT_DIR$/imaging-service/imaging-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-common/tax-cloud-common.iml" filepath="$PROJECT_DIR$/tax-cloud-common/tax-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-common-web/tax-cloud-common-web.iml" filepath="$PROJECT_DIR$/tax-cloud-common-web/tax-cloud-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-ea/tax-cloud-ea.iml" filepath="$PROJECT_DIR$/tax-cloud-ea/tax-cloud-ea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-eureka/tax-cloud-eureka.iml" filepath="$PROJECT_DIR$/tax-cloud-eureka/tax-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-invoice/tax-cloud-invoice.iml" filepath="$PROJECT_DIR$/tax-cloud-invoice/tax-cloud-invoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-invoice-api/tax-cloud-invoice-api.iml" filepath="$PROJECT_DIR$/tax-cloud-invoice-api/tax-cloud-invoice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-timer/tax-cloud-timer.iml" filepath="$PROJECT_DIR$/tax-cloud-timer/tax-cloud-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-user/tax-cloud-user.iml" filepath="$PROJECT_DIR$/tax-cloud-user/tax-cloud-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-web/tax-cloud-web.iml" filepath="$PROJECT_DIR$/tax-cloud-web/tax-cloud-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tax-cloud-wechat/tax-cloud-wechat.iml" filepath="$PROJECT_DIR$/tax-cloud-wechat/tax-cloud-wechat.iml" />
+    </modules>
+  </component>
+</project>
