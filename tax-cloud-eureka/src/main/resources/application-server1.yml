@@ -1,7 +1,8 @@
 server:  
   port: 20002
 eureka:  
-  instance:  
+  instance:
+    prefer-ip-address: true
     hostname: localhost
   client:  
     #表示是否注册自身到eureka服务器  
